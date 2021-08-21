@@ -1,0 +1,24 @@
+{
+  "name": "Execicio_Ebac_Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandre-soares-93/Execicio_Ebac_Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandre-soares-93/Execicio_Ebac_Cypress/issues"
+  },
+  "homepage": "https://github.com/alexandre-soares-93/Execicio_Ebac_Cypress#readme",
+  "dependencies": {
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3"
+  }
+}
